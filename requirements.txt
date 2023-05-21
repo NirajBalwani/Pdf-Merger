@@ -1,2 +1,2 @@
-pip install --force-reinstall dlib @ file:///C:/Users/2061tx/Downloads/dlib-19.22.99-cp310-cp310-win_amd64.whl
+pip install -f dlib-19.22.99-cp310-cp310-win_amd64.whl
 PyPDF2==3.0.1
